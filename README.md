@@ -20,6 +20,14 @@ DevOps Engineer | Linux | Networking | Git | CI-CD | Python |  AWS | Kubernetes 
 ![My Skills](https://skillicons.dev/icons?i=Networking)
 ![My Skills](https://skillicons.dev/icons?i=Bitbucket)
 
+🚀 My expertise encompasses:
+- Python
+- HTML5
+- CSS3
+- JavaScript
+- MySQL
+- NumPy
+- Pandas
 🔭 Currently Working On
 - Kubernetes & Docker projects
 - CI/CD automation using Jenkins & GitHub Actions
