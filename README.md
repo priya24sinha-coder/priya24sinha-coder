@@ -8,7 +8,7 @@ DevOps Engineer | Linux | Networking | Git | CI-CD | Python |  AWS | Kubernetes 
        Ministry of Communication as Data Manager
 
 🚀 My expertise encompasses:
-![My Skills](https://skillicons.dev/icons?i=linux)
+- ![My Skills](https://skillicons.dev/icons?i=linux)
 ![My Skills](https://skillicons.dev/icons?i=aws)
 ![My Skills](https://skillicons.dev/icons?i=docker)
 ![My Skills](https://skillicons.dev/icons?i=kubernetes)
