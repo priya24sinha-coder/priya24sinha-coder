@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi 👋 I'm Priya Sinha
+DevOps Engineer | Linux | Networking | Git | CI-CD | Python |  AWS | Kubernetes | C++ 
 
 <!--
 **priya24sinha-coder/priya24sinha-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🚀 DevOps Engineer with hands-on experience in Linux administration, Networking , Git, CI/CD pipelines, cloud infrastructure, and Kubernetes.
+      Selected among top candidates nationally (SSC CGL AIR 3054); recognized with multiple delivery and performance awards at TCS.
+     My work experience :
+       Worked at TCS as a DevOps Engineer. 
+       Ministry of Communication as Data Manager
+
+🚀 My expertise encompasses:
+![My Skills](https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,git,github,jenkins,terraform,jira,confluence,networking,CI/CD)
+
+    
+🔭 Currently Working On
+- Kubernetes & Docker projects
+- CI/CD automation using Jenkins & GitHub Actions
+- Cloud cost optimization on AWS
+
+🌱 Currently Learning
+- Advanced Kubernetes
+- Terraform modules
+- DevOps best practices
+- Python 
+
+ 📊 GitHub Stats
+![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+📫 How to reach me
+- 💼 LinkedIn: https://www.linkedin.com/in/priya-sinha-31b95b13a/
+- 📧 Email: priya24sinha@gmail.com
+- 💻 GitHub: https://github.com/priya24sinha-coder/
+            Contact:- 7984244058
+            
+                       
 -->
