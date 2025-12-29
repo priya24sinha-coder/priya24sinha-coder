@@ -1,13 +1,8 @@
 ## Hi 👋 I'm Priya Sinha
 DevOps Engineer | Linux | Networking | Git | CI-CD | Python |  AWS | Kubernetes | C++ 
 
-<!--
-**priya24sinha-coder/priya24sinha-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🚀 DevOps Engineer with hands-on experience in Linux administration, Networking , Git, CI/CD pipelines, cloud infrastructure, and Kubernetes.
-      Selected among top candidates nationally (SSC CGL AIR 3054); recognized with multiple delivery and performance awards at TCS.
+🚀 DevOps Engineer with hands-on experience in Linux administration, Networking , Git, CI/CD pipelines, cloud infrastructure, and Kubernetes.
+     Selected among top candidates nationally (SSC CGL AIR 3054); recognized with multiple delivery and performance awards at TCS.
      My work experience :
        Worked at TCS as a DevOps Engineer. 
        Ministry of Communication as Data Manager
