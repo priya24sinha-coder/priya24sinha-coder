@@ -8,9 +8,18 @@ DevOps Engineer | Linux | Networking | Git | CI-CD | Python |  AWS | Kubernetes 
        Ministry of Communication as Data Manager
 
 🚀 My expertise encompasses:
-![My Skills](https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,git,github,jenkins,terraform,jira,confluence,networking,CI/CD)
+![My Skills](https://skillicons.dev/icons?i=linux)
+![My Skills](https://skillicons.dev/icons?i=aws)
+![My Skills](https://skillicons.dev/icons?i=docker)
+![My Skills](https://skillicons.dev/icons?i=kubernetes)
+![My Skills](https://skillicons.dev/icons?i=git)
+![My Skills](https://skillicons.dev/icons?i=github)
+![My Skills](https://skillicons.dev/icons?i=jenkins)
+![My Skills](https://skillicons.dev/icons?i=confluence)
+![My Skills](https://skillicons.dev/icons?i=jira)
+![My Skills](https://skillicons.dev/icons?i=Networking)
+![My Skills](https://skillicons.dev/icons?i=Bitbucket)
 
-    
 🔭 Currently Working On
 - Kubernetes & Docker projects
 - CI/CD automation using Jenkins & GitHub Actions
